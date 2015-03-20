@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "nasu-hayato",
-    "repositoryName": "nasu-hayato.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"nasu-hayato","repositoryName":"nasu-hayato.github.io","branch":"master"},"site":{"url":"https://nasu-hayato.github.io"},"socialnetwork":{},"theme":{"name":"Roon","url":"//nasu-hayato.github.io/themes/Roon"}}
